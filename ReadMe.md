@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤝 I’m here for Share my Expreince and Learn New Stuff In Coding and Real Life. <br>💬 Ask me about
+🤝 I’m here to Share my Experience and Learn New Stuff In Coding and Real Life. <br>💬 Ask me about
 
 
 ## 🌐 Socials:
