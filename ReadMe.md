@@ -82,4 +82,5 @@ I thrive on challenges and aim to craft **state-of-the-art AI models** that are 
 
 ---
 
-[![Visitor Count](https://visitcount.itsvg.in/api?id=SoheilFM&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=SoheilFM&icon=0&color=0)](https://visitcount.itsvg.in)
+
