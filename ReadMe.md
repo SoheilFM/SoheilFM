@@ -1,6 +1,9 @@
 # 💫 About Me:
-🤝 I’m here to Share my Experience and Learn New Stuff In Coding and Real Life. <br>💬 Ask me about
+Hi there! 👋
+I'm passionate about AI, web development, and exploring innovative tech solutions. I enjoy sharing my experiences, learning new things, and collaborating on exciting projects. 🚀
 
+💬 Ask me about: Artificial Intelligence, Web Development, and Life Hacks in Coding.
+🤝 Let’s connect and grow together!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/soheil-faridmohammadzadega-2a0b49234)
