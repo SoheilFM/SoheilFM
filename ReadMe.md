@@ -58,7 +58,7 @@ I thrive on challenges and aim to craft **state-of-the-art AI models** that are 
 
 🤖 [Machine Learning Repository](https://github.com/SoheilFM/Machine_Learning)
 🤖 [Computer Vision](https://github.com/SoheilFM/Computer-Vision)
-
+🤖 [Computer Vision Deep Learning](https://github.com/SoheilFM/Computer-Vision-Deep-Learning-Projects)
 # 📊 GitHub Stats:  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SoheilFM&theme=dark&hide_border=false&include_all_commits=true&count_private=false)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SoheilFM&theme=dark&hide_border=false)  
