@@ -27,6 +27,9 @@ I thrive on challenges and aim to craft **state-of-the-art AI models** that are 
 
 ---
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=soheilfm&label=Profile%20views&color=0e75b6&style=flat" alt="soheilfm" /> </p>
+
 ## 🌐 Connect with Me:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/soheil-faridmohammadzadegan)
 
