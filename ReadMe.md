@@ -31,7 +31,7 @@ I thrive on challenges and aim to craft **state-of-the-art AI models** that are 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/soheil-faridmohammadzadegan)
 Google Scholar
 
-[Google Scholar]([https://github.com/SoheilFM/Machine_Learning](https://scholar.google.com/citations?user=rdNuHJkAAAAJ&hl=en&oi=sra))
+[Google Scholar](https://github.com/SoheilFM/Machine_Learning](https://scholar.google.com/citations?user=rdNuHJkAAAAJ&hl=en&oi=sra)
 
 ---
 
