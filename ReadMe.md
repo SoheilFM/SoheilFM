@@ -73,7 +73,7 @@ I thrive on challenges and aim to craft **state-of-the-art AI models** that are 
 # My Certificates
 [Certificates Repository](https://github.com/SoheilFM/Certificates)
 # My Publications
-
+[Two competitive hybridization approaches based on combining of Giza Pyramids Construction with Particle Swarm Optimization for solving global optimization problems](https://journal.iberamia.org/index.php/intartif/article/view/1711)
 
 ### ✍️ Random Dev Quote  
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
