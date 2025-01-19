@@ -70,8 +70,8 @@ I thrive on challenges and aim to craft **state-of-the-art AI models** that are 
 
 ---
 
-# My Cerrificates
-
+# My Certificates
+[Certificates Repository](https://github.com/SoheilFM/Certificates)
 # My Publications
 
 
