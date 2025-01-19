@@ -29,7 +29,7 @@ I thrive on challenges and aim to craft **state-of-the-art AI models** that are 
 
 ## 🌐 Connect with Me:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/soheil-faridmohammadzadegan)
-Google Scholar
+
 
 [Google Scholar](https://scholar.google.com/citations?user=rdNuHJkAAAAJ&hl=en&oi=sra)
 
