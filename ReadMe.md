@@ -88,5 +88,10 @@ I thrive on challenges and aim to craft **state-of-the-art AI models** that are 
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=SoheilFM&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=soheilfm&label=Profile%20views&color=0e75b6&style=flat" alt="soheilfm" /> </p>
+
+
 
