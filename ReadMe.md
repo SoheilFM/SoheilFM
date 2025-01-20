@@ -24,10 +24,10 @@ I thrive on challenges and aim to craft **state-of-the-art AI models** that are 
 🤝 Let’s connect, innovate, and grow together! 🌟  
 
 ## 🌐 Connect with Me:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/soheil-faridmohammadzadegan)
+## [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/soheil-faridmohammadzadegan)
 
 
-[Google Scholar](https://scholar.google.com/citations?user=rdNuHJkAAAAJ&hl=en&oi=sra)      
+#### [Google Scholar](https://scholar.google.com/citations?user=rdNuHJkAAAAJ&hl=en&oi=sra)      
 ---
 
 # 💻 My Tech Stack:  
@@ -54,10 +54,10 @@ I thrive on challenges and aim to craft **state-of-the-art AI models** that are 
 ---
 # My Project
 
-🤖 [Natural-Langaue-Processing Repository](https://github.com/SoheilFM/Natural-Langaue-Processing)
-🤖 [Machine Learning Repository](https://github.com/SoheilFM/Machine_Learning)
-🤖 [Computer Vision Repository](https://github.com/SoheilFM/Computer-Vision)
-🤖 [Computer Vision Deep Learning Repository](https://github.com/SoheilFM/Computer-Vision-Deep-Learning-Projects)
+#### 🤖 [Natural-Langaue-Processing Repository](https://github.com/SoheilFM/Natural-Langaue-Processing)        
+#### 🤖 [Machine Learning Repository](https://github.com/SoheilFM/Machine_Learning)             
+#### 🤖 [Computer Vision Repository](https://github.com/SoheilFM/Computer-Vision)        
+#### 🤖 [Computer Vision Deep Learning Repository](https://github.com/SoheilFM/Computer-Vision-Deep-Learning-Projects)     
 # 📊 GitHub Stats:  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SoheilFM&theme=dark&hide_border=false&include_all_commits=true&count_private=false)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SoheilFM&theme=dark&hide_border=false)  
