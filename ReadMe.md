@@ -20,25 +20,14 @@ I thrive on challenges and aim to craft **state-of-the-art AI models** that are 
 - 🌐 **Web Development**: Crafting beautiful and efficient web solutions.  
 - 🧠 **Coding Life Hacks**: Tips to boost productivity and creativity.  
 
----
-
 
 🤝 Let’s connect, innovate, and grow together! 🌟  
-
 ---
-
-
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=soheilfm&label=Profile%20views&color=0e75b6&style=flat" alt="soheilfm" /> </p>
-
 ## 🌐 Connect with Me:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/soheil-faridmohammadzadegan)
 
 
-[Google Scholar](https://scholar.google.com/citations?user=rdNuHJkAAAAJ&hl=en&oi=sra)
-
+[Google Scholar](https://scholar.google.com/citations?user=rdNuHJkAAAAJ&hl=en&oi=sra)      
 ---
 
 # 💻 My Tech Stack:  
@@ -82,6 +71,9 @@ I thrive on challenges and aim to craft **state-of-the-art AI models** that are 
 [Two competitive hybridization approaches based on combining of Giza Pyramids Construction with Particle Swarm Optimization for solving global optimization problems](https://journal.iberamia.org/index.php/intartif/article/view/1711)
 ---
 
+# 🌐 My Portfolio 
+[Portfolio](https://soheilfm.ir)
+---
 
 ### ✍️ Random Dev Quote  
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
