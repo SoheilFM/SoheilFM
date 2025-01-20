@@ -22,7 +22,7 @@ I thrive on challenges and aim to craft **state-of-the-art AI models** that are 
 
 
 🤝 Let’s connect, innovate, and grow together! 🌟  
----
+
 ## 🌐 Connect with Me:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/soheil-faridmohammadzadegan)
 
@@ -77,7 +77,7 @@ I thrive on challenges and aim to craft **state-of-the-art AI models** that are 
 
 ### ✍️ Random Dev Quote  
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
-
+---
 ### 🔝 Top Contributed Repositories  
 ![Top Repos](https://github-contributor-stats.vercel.app/api?username=SoheilFM&limit=5&theme=dark&combine_all_yearly_contributions=true)  
 
